@@ -1,6 +1,6 @@
 # Hi, I'm Chetan 👋
 
-Software Engineer | PHP | MySQL | C++ | AI Applications
+Software Engineer | PHP | MySQL | C++ | Python | Flask/FastAPI | AI Applications
 
 Currently working as a Software Engineer at HPM Chemicals & Fertilizers Ltd., where I maintain and enhance enterprise web applications, workflow systems, and backend services.
 
