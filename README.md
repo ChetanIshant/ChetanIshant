@@ -1,4 +1,4 @@
-# Hi, I'm Chetan Ishant 👋
+# Hi, I'm Chetan 👋
 
 Software Engineer | PHP | MySQL | C++ | AI Applications
 
