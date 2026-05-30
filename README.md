@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Chetan Ishant 👋
 
-<!--
-**ChetanIshant/ChetanIshant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer | PHP | MySQL | C++ | AI Applications
 
-Here are some ideas to get you started:
+Currently working as a Software Engineer at HPM Chemicals & Fertilizers Ltd., where I maintain and enhance enterprise web applications, workflow systems, and backend services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 💼 Software Engineer at HPM Chemicals & Fertilizers Ltd.
+- 💻 Working with PHP, MySQL, JavaScript, HTML & CSS
+- 🚀 Solved 400+ DSA Problems
+- ⭐ HackerRank 3-Star (C++ & SQL)
+- 🤖 Interested in AI Applications & Backend Development
+- 📍 Delhi, India
+
+## Tech Stack
+
+### Languages
+C++ • PHP • JavaScript • SQL • Python • C
+
+### Backend
+PHP • FastAPI • Flask
+
+### Database
+MySQL • PostgreSQL
+
+### Tools
+Git • GitHub • Plesk • WinSCP • XAMPP
+
+## Featured Projects
+
+### AutoPost AI Generator
+AI-powered LinkedIn content automation platform.
+
+### Voice Lesson Planner Agent
+Voice-enabled AI lesson planning application.
