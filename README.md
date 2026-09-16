@@ -4,7 +4,7 @@ Technical Support Engineer focused on debugging, system reliability, and root ca
 
 Currently working at **Get My Parking**, supporting live systems where uptime matters.
 
-[LinkedIn](https://www.linkedin.com/in/chetanishant/)](#)
+[LinkedIn](https://www.linkedin.com/in/chetanishant/)
 
 ---
 
